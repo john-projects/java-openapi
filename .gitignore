@@ -1,3 +1,6 @@
 .idea
 openapi.iml
 .gradle
+build
+out
+target
